@@ -1,3 +1,3 @@
 # crispy-kitchen
 
-My first jenkins project
+My first jenkins project is crispy-kitchen
